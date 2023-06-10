@@ -1,3 +1,3 @@
-let nome= "Henrique"
+let nome= "henrique"
 let idade= 19
 lsl
