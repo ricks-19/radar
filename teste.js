@@ -1,3 +1,3 @@
-let nome= "henrique"
+let nome= "Henrique"
 let idade= 19
-lsl
+// jazi esteve aqui
